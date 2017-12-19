@@ -52,7 +52,7 @@ const styles = theme => ({
     width: 4,
     height: 4,
     backgroundColor: theme.palette.common.white,
-    borderRadius: '100%',
+    borderRadius: '49%',
     position: 'absolute',
     top: -21,
     left: -15,
